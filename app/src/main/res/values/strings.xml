@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GrafikaApp</string>
+    <string name="warning">Tekan icon pencil untuk menggambar berdasarkan algoritma!</string>
+    <string name="pilih_menu">Pilih Menu!</string>
+    <string name="normal_paint">Normal Paint</string>
+    <string name="dda">DDA</string>
+    <string name="bresenham">Bresenham</string>
+    <string name="circlepoint">Circle Point</string>
+    <string name="circlemidpoint">Circle Midpoint</string>
+    <string name="ellipsmidpoint">Ellips Midpoint</string>
+    <string name="square_transformasi">Transformasi</string>
+    <string name="transformation_testing_button">Tombol testing transformasi matrix</string>
+</resources>
